@@ -1,11 +1,9 @@
 ---
 name: leadership-quality-filter
-description: Evaluate whether a leader possesses the three non-negotiable traits (clarity
-  of thinking, work ethic, effectiveness) and identify "hot mess" warning signs that
-  disqualify leadership.
+description: Evaluate whether a leader possesses the three non-negotiable traits (clarity of thinking, work ethic, effectiveness) and identify "hot mess" warning signs that disqualify leadership.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - leadership-quality-filter
